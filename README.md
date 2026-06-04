@@ -19,7 +19,7 @@
 
 <br/>
 
-[🚀 Live Demo](#-live-demo) • [📖 Docs](#-documentation) • [🎥 Video](#-demo-video) • [🤝 Contribute](#-contributing) • [📬 Contact](#-team)
+[🚀 Live Demo](#-live-demo) = https://mars-1tj9.vercel.app/ • [📖 Docs](#-documentation) • [🎥 Video](#-demo-video) • [🤝 Contribute](#-contributing) • [📬 Contact](#-team)
 
 ---
 
