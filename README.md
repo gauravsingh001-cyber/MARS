@@ -779,7 +779,7 @@ MARS was made possible by these incredible open-source projects and APIs:
 
 ## 🌐 Live Deployment
 
-> 🚧 *Live platform launching soon.*
+> (https://mars-1tj9.vercel.app/)
 
 [![Live App](https://img.shields.io/badge/🚀%20Try%20Live%20App-Render-46E3B7?style=for-the-badge)](https://mars-ai.onrender.com)
 
